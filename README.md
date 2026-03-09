@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**nahsi/nahsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps / Platform Engineer interested in bare-metal, networking, and self-hosting.
 
-Here are some ideas to get you started:
+## Currently working at [**Cloudless Labs**](https://cloudless.dev), building the [SAAS cloud](https://github.com/fluencelabs) based on K8S.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+I've server racks at home.
+
+### [HomeLab Gen 2](https://github.com/nahsilabs)
+
+Self-hosted infrastructure for personal use and experimentation with distributed systems, storage, and container orchestration platforms. Based on Proxmox + Talos.
+
+<img src=".github/images/lab-2.jpg" alt="homelab-gen-2" style="height:auto; width:20%;">
+
+### [HomeLab Gen 1](https://github.com/nahsi-homelab)
+
+Self-hosted infrastructure for personal use and experimentation with distributed systems, storage, and container orchestration platforms. Based on Gentoo + HashiStack. Deprecated.
+
+---
