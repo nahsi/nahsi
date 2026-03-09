@@ -10,12 +10,14 @@ I've server racks at home.
 
 ### [HomeLab Gen 2](https://github.com/nahsilabs)
 
-Self-hosted infrastructure for personal use and experimentation with distributed systems, storage, and container orchestration platforms. Based on Proxmox + Talos.
+Self-hosted infrastructure for personal use and experimentation with distributed systems, storage, and container orchestration platforms.
 
-<img src=".github/images/lab-2.jpg" alt="homelab-gen-2" style="height:auto; width:50%;">
+Based on Proxmox + Talos.
 
-### [HomeLab Gen 1](https://github.com/nahsi-homelab)
+<img src=".github/images/lab-2.jpg" alt="homelab-gen-2" style="height:auto; width:80%;">
 
-Self-hosted infrastructure for personal use and experimentation with distributed systems, storage, and container orchestration platforms. Based on Gentoo + HashiStack. Deprecated.
+### [HomeLab Gen 1](https://github.com/nahsi-homelab) - deprecated
 
----
+Self-hosted infrastructure for personal use and experimentation with distributed systems, storage, and container orchestration platforms.
+
+Based on Gentoo + HashiStack.
