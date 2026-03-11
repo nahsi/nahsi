@@ -6,7 +6,7 @@ Currently working at [**Cloudless Labs**](https://cloudless.dev), building the [
 
 ## Projects
 
-I've server racks at home.
+I have server racks at home.
 
 ### [HomeLab Gen 2](https://github.com/nahsilabs)
 
