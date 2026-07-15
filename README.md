@@ -2,8 +2,6 @@
 
 DevOps / Platform Engineer interested in bare-metal, networking, and self-hosting.
 
-Currently working at [**Cloudless Labs**](https://cloudless.dev), building the [IaaS/PaaS cloud](https://github.com/fluencelabs) based on K8S.
-
 ## Projects
 
 I have server racks at home.
